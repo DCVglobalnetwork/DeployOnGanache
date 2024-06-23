@@ -127,11 +127,14 @@ contract SimpleStorage {
 This project is licensed under the MIT License 
 
 
-![image](https://github.com/DCVglobalnetwork/DeployOnGanache/assets/105791829/f11dd9f9-821b-49c8-b62e-5f38a0707888)
+I believe you might find my work interesting and valuable.*
 
-*My Medium profile where I have been actively contributing to various projects. I believe you might find my work interesting and valuable.*
+*Here are the links to my blogs about testing blockchain technology: 
 
-*Here is the link to my GitHub profile: https://medium.com/@maria.magdalena.makeup/deploying-a-smart-contract-on-ganache-e7ca3077b685*
+https://medium.com/@maria.magdalena.makeup/deploying-a-smart-contract-on-ganache-e7ca3077b685*
+
+
+*https://magdajankowska.hashnode.dev/common-vulnerabilities-in-smart-contracts*
 
 *I would be honored if you could follow me and explore my contributions.*
 
