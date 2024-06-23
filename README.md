@@ -129,7 +129,7 @@ This project is licensed under the MIT License
 
 I believe you might find my work interesting and valuable.*
 
-*Here are the links to my blogs about testing blockchain technology: 
+*Here are the links to my blogs about testing blockchain technology:* 
 
 https://medium.com/@maria.magdalena.makeup/deploying-a-smart-contract-on-ganache-e7ca3077b685*
 
